@@ -1,4 +1,4 @@
-# .stl
+# .std
 # This Repository Contains Personal and School related projects. files inclue Assemblies, Simulations, and Technical Drawings.
 
 
